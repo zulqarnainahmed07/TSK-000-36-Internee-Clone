@@ -1,6 +1,0 @@
-.portal{margin-top:300px;margin-bottom:200px;overflow:hidden}
-.task-img{width:100%;position:relative;animation:2s ease-in-out infinite alternate float;margin-left:-100px}@keyframes float{0%{transform:translateY(0)}100%{transform:translateY(-10px)}}
-.description{padding:30px;color:gray}
-.svg{width:30%}@media (max-width:767px){.svg{width:10%}
-.task-img{margin-left:0}}
-.icon-env,.text-env{display:inline}
